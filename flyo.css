@@ -1,0 +1,22 @@
+body{
+    background-color:darkblue;
+}
+.left{
+    background-color: hsl(228, 56%, 26%); 
+    width: 500px;  
+    border-top-right-radius: 20%;
+    height: 200px;
+    margin-left: 350px;
+    margin-top: 300px;
+}
+.right{
+    background-color: hsl(228, 56%, 26%); 
+    width: 500px;  
+    border-radius: 5%;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 300px;
+}
+.container{
+    display: flex;
+}

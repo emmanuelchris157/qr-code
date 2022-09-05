@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+}
+.purple{
+    background-color: hsl(264, 100%, 61%);
+    width: 450px;
+    height: 600px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+.booking{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+h2{
+    color: purple;
+    font-size: 30px;
+}
+body{
+    background-color: whitesmoke;
+}

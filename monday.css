@@ -1,0 +1,46 @@
+body{
+    background-color:aqua;
+    height: 100vh;
+}
+header{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+}
+h2{
+    margin-left: ;
+    color: beige;
+    height: 400px;
+}
+main{
+height: 70%;
+}
+.one{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+   display: ;
+    color: whitesmoke;
+}
+.two{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.three{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    
+}
+.four{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+}
+.container{
+    display: flex;
+    gap: 5px  ;
+    justify-content: center;
+    align-items: center;
+}

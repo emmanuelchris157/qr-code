@@ -1,0 +1,22 @@
+button{
+    color: white;
+    background-color:hsl(233, 100%, 69%);
+    border:10px;
+    border-radius: 30px;
+    height: 40px;
+}
+footer{
+    background-color: blanchedalmond;
+}
+.one{
+    margin-left: 300px;
+}
+.two{
+    margin-left: 300px;
+    display: flex;
+}
+
+
+.four{
+    display: flex;
+}

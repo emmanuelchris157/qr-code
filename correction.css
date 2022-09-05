@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    height:100vh
+}
+header{
+    background-color: black;
+    height: 50px;
+    color: antiquewhite;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    
+}
+.one{
+    background-color: aqua;
+    width: 585px;
+    height: 585px;
+    flex: 2%;
+    
+}
+.two{
+    background-color:purple;
+    width: 585px;
+    height: 585px;
+    display:flex;
+}
+.three{
+    background-color: red;
+    width: 585px;
+    height: 585px;
+    float: right;
+}

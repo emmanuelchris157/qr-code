@@ -1,0 +1,19 @@
+
+.container{
+    border-radius: 10px;
+    align-items: center;    
+    margin: 5px;
+    padding: 20px;
+    background-color: hsl(215, 32%, 27%);
+    margin-left: 400px;
+    width: 400px;}
+    .side{
+        display: flex;
+    }
+    .space{
+        margin-left: 80px;
+    }
+    body{
+        background-color:hsl(217, 54%, 11%);
+        
+    }
